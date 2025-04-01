@@ -1,5 +1,5 @@
 <?php
-$host = "my-mysql-franknokwe100.aivencloud.com";
+$host = "sgrdb-sgrnotificationdb.g.aivencloud.com";
 $port = "14283";
 $dbname = "defaultdb";
 $user = "avnadmin";
