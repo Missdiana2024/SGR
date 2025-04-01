@@ -1,9 +1,9 @@
 <?php
 $host = "my-mysql-franknokwe100.aivencloud.com";
-$port = "12345";
+$port = "14283";
 $dbname = "defaultdb";
 $user = "avnadmin";
-$pass = "your-secret-password";
+$pass = "AVNS_TMT7VxP2bkdpVepWhV2";
 $conn = new mysqli($host, $user, $pass, $dbname, $port);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
